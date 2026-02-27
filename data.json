@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "title": "Find Your Rhythm",
+    "subtitle": "We don't just play, we create champions"
+  },
+  "about": {
+    "name": "Your Name",
+    "age": "18",
+    "ranking": "National: #50",
+    "years": "12",
+    "bio": "Passionate tennis player dedicated to the sport since age 6. Training hard to reach the top."
+  },
+  "achievements": [
+    {
+      "year": "2024",
+      "title": "National Junior Championship",
+      "place": "Semi-finalist"
+    },
+    {
+      "year": "2023",
+      "title": "Regional Tournament",
+      "place": "Winner"
+    },
+    {
+      "year": "2022",
+      "title": "National Junior Championship",
+      "place": "Quarter-finalist"
+    }
+  ],
+  "gallery": [
+    "/photo1.jpeg",
+    "/photo2.jpeg"
+  ],
+  "contact": {
+    "email": "player@email.com",
+    "instagram": "@tennisplayer",
+    "phone": "+45 12 34 56 78"
+  }
+}
